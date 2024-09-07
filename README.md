@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juno-august
-- 👀 I’m interested in nature, science, art, music, architecture
+- 👀 I’m engineering student interested in nature, science, art, music, architecture
 - 🌱 I’m currently learning calculus and rust system programming
 - 💞️ I’m looking to collaborate on linux projects
 - 📫 How to reach me lime.06-anthems@icloud.com
