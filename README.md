@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juno-august
+- 👋 Hi, I’m @jason
 - 👀 I’m engineering student interested in nature, science, art, music, architecture
 - 🌱 I’m currently learning calculus and rust system programming
 - 💞️ I’m looking to collaborate on linux projects
